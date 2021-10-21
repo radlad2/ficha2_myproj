@@ -3,3 +3,5 @@ Este é o exemplo de um ficheiro de texto file1.txt
 Fiz uma alteração no ficheiro.
 
 Alterações efetuadas no branch NovaFeature
+
+Alteracoes no branch NOVAFEATURE
